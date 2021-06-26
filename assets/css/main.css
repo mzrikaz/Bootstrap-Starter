@@ -1,0 +1,30 @@
+@import url('bootstrap-icons/bootstrap-icons.css');
+
+.btn {
+    border-radius: 15px;
+    border: 0;
+}
+
+.btn-primary {
+    background-color: #FF7139;
+}
+
+.btn-primary:hover {
+    background-color: #212529;
+}
+
+.btn-shadow {
+    box-shadow: 0 16px 36px rgb(241 139 98 / 30%);
+}
+
+.nav-item {
+    font-weight: bold;
+}
+
+.bg-custom {
+    background-color: #ebf5ff;
+}
+
+.text-justify {
+    text-align: justify;
+}
